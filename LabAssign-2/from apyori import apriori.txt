@@ -1,0 +1,3 @@
+#%%
+from apyori import apriori
+
